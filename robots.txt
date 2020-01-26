@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laeyienee.gisquick.org/sitemap.xml
